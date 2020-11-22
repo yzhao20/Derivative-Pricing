@@ -1,5 +1,5 @@
 #### This repository focuses on derivative pricing with different types of approaches. 
-##### 1. Basci Financial Products Pricing
+##### 1. Basic Products Pricing
 
 ##### 2. Vanilla Option Pricing
 
