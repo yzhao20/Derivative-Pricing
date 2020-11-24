@@ -1,4 +1,4 @@
-#### This repository focuses on derivative pricing with different types of approaches. 
+#### This repository focuses on derivatives pricing with different types of approaches. 
 ##### 1. Basic Products Pricing
 
 ##### 2. Vanilla Option Pricing
